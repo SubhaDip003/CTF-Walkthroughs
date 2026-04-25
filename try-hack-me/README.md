@@ -17,5 +17,5 @@ layout:
     visible: true
 ---
 
-# Hack The Box
+# Try Hack Me
 
