@@ -17,6 +17,7 @@
   * [CodePartTwo Machine Walk-through](readme/codeparttwo-machine-walk-through.md)
   * [Fluffy Machine Walk-through](readme/fluffy-machine-walk-through.md)
   * [Puppy Machine Walk-through](readme/puppy-machine-walk-through.md)
+  * [Silentium Season 10 Machine Walk-through](readme/silentium-season-10-machine-walk-through.md)
 * [Try Hack Me](try-hack-me/README.md)
   * [Smol Challenge Wolkthrough](try-hack-me/smol-challenge-wolkthrough.md)
   * [Soupedecode 01 Room Walkthrough](try-hack-me/soupedecode-01-room-walkthrough.md)
